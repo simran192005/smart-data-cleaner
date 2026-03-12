@@ -85,3 +85,7 @@ streamlit run app.py
 ## Author
 
 Project created as a data analysis learning project using Streamlit.
+
+## Live Demo
+
+https://smart-data-cleaner-fysartpwggkhy5vfgylhdi.streamlit.app/
